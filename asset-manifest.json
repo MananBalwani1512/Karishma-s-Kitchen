@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Karishma-s-Kitchen/static/css/main.e6c13ad2.css",
-    "main.js": "/Karishma-s-Kitchen/static/js/main.ac0e952a.js",
+    "main.js": "/Karishma-s-Kitchen/static/js/main.85703e49.js",
     "static/js/453.a87ffdb2.chunk.js": "/Karishma-s-Kitchen/static/js/453.a87ffdb2.chunk.js",
     "index.html": "/Karishma-s-Kitchen/index.html",
     "main.e6c13ad2.css.map": "/Karishma-s-Kitchen/static/css/main.e6c13ad2.css.map",
-    "main.ac0e952a.js.map": "/Karishma-s-Kitchen/static/js/main.ac0e952a.js.map",
+    "main.85703e49.js.map": "/Karishma-s-Kitchen/static/js/main.85703e49.js.map",
     "453.a87ffdb2.chunk.js.map": "/Karishma-s-Kitchen/static/js/453.a87ffdb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ac0e952a.js"
+    "static/js/main.85703e49.js"
   ]
 }
